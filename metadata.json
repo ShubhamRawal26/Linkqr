@@ -1,0 +1,5 @@
+{
+  "name": "linkqr",
+  "description": "Turn any link into a dynamic QR code you can track, update, and automate — without reprinting.",
+  "requestFramePermissions": []
+}
