@@ -3,7 +3,7 @@
 A lightweight personal tool to generate high-quality QR codes from any URL or text.
 
 ## Live Demo
-https://<ShubhamRawal26>.github.io/<Linkqr>/
+https://shubhamrawal26.github.io/Linkqr/
 
 ## Features
 - Instant QR generation
