@@ -1,20 +1,17 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Linkqr – Simple QR Generator
 
-# Run and deploy your AI Studio app
+A lightweight personal tool to generate high-quality QR codes from any URL or text.
 
-This contains everything you need to run your app locally.
+## Live Demo
+https://<ShubhamRawal26>.github.io/<Linkqr>/
 
-View your app in AI Studio: https://ai.studio/apps/66ddc973-0073-402d-9e6b-b9d562728243
+## Features
+- Instant QR generation
+- Color customization
+- Download as PNG
 
-## Run Locally
+## Tech Stack
+- HTML, CSS, JavaScript
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## License
+© 2026 Shubham Rawal. All rights reserved.
